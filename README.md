@@ -27,6 +27,7 @@ The dataset used for this project was obtained from **Code Basics**, a structure
 
 <img width="1372" height="771" alt="image" src="https://github.com/user-attachments/assets/f290b1dd-1272-4b64-a589-4de76e8af3a8" />
 <img width="1370" height="772" alt="image" src="https://github.com/user-attachments/assets/912e873c-82ae-4ac9-9845-2cbb009463d0" />
+<img width="1368" height="767" alt="image" src="https://github.com/user-attachments/assets/df088065-c6ad-4e43-aebc-831378f7c6a6" />
 
 
 
